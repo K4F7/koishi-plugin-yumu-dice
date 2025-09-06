@@ -141,6 +141,6 @@ Apache License 2.0
 
 ## 致谢
 
-(https://github.com/yumu-bot/yumu-bot) 本插件移植自 YumuBot，感谢原作者的精彩设计。
+[yumu-bot](https://github.com/yumu-bot/yumu-bot) 本插件移植自 YumuBot，感谢原作者的精彩设计。
 
 ---
