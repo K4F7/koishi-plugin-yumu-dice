@@ -1,0 +1,48 @@
+{
+  "name": "koishi-plugin-yumu-dice",
+  "version": "1.0.0",
+  "description": "A Koishi plugin for dice rolling and advanced text interaction, ported from DiceService.kt. Features intelligent Chinese language processing for natural conversation and decision making.",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "readme.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "koishi",
+    "plugin",
+    "dice",
+    "yumu",
+    "chinese",
+    "nlp",
+    "decision",
+    "random",
+    "chatbot",
+    "conversation"
+  ],
+  "author": "K4F7",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/K4F7/koishi-plugin-yumu-dice.git"
+  },
+  "homepage": "https://github.com/K4F7/koishi-plugin-yumu-dice#readme",
+  "bugs": {
+    "url": "https://github.com/K4F7/koishi-plugin-yumu-dice/issues"
+  },
+  "peerDependencies": {
+    "koishi": "^4.17.0"
+  },
+  "devDependencies": {
+    "koishi": "^4.17.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
