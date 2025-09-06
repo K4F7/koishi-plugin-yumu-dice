@@ -1,7 +1,5 @@
 # koishi-plugin-yumu-dice
 
-由 Claude 移植的 yumu 插件 
-
 一个功能强大的 Koishi 插件，提供骰子投掷和智能中文语言交互功能。本插件从 YumuBot 移植而来，具有复杂的自然语言处理能力。
 
 ## 功能特性
