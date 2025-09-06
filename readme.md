@@ -22,12 +22,6 @@
 - 内容和谐化
 - 特殊彩蛋和异常处理
 
-## 安装
-
-```bash
-npm install koishi-plugin-yumu-dice
-```
-
 ## 使用方法
 
 ### 基本命令
@@ -77,43 +71,6 @@ dice 今天会下雨吗
 dice 你喜欢编程吗
 dice 这个想法好吗
 ```
-
-## 配置
-
-本插件无需额外配置，安装后即可使用。
-
-## 开发
-
-```bash
-# 克隆项目
-git clone https://github.com/your-username/koishi-plugin-yumu-dice.git
-
-# 安装依赖
-npm install
-
-# 编译
-npm run build
-
-# 测试
-npm test
-```
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 许可证
-
-Apache License 2.0
-
-## 更新日志
-
-### v1.0.0
-- 🎉 首次发布
-- ✅ 完整移植 DiceService.kt 功能
-- ✅ 支持复杂中文语言处理
-- ✅ 完善的异常处理机制
-- ✅ TypeScript 类型支持
 
 ## 致谢
 
