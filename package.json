@@ -26,7 +26,7 @@
     "conversation"
   ],
   "author": "K4F7",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/K4F7/koishi-plugin-yumu-dice.git"
